@@ -1,0 +1,8 @@
+{
+  "home": {
+    "title": "Welcome to our app",
+    "subtitle": "Explore the power of dynamic themes",
+    "description": "This example demonstrates how to use NativeWind v4 with Expo for theming your app This example demonstrates how to use NativeWind v4 with Expo for theming your app This example demonstrates how to use NativeWind v4 with Expo for theming your app .",
+    "currentTheme": "Current theme: {{theme}}"
+  }
+}
